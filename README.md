@@ -96,5 +96,6 @@ Foi usado o [Github](https://github.com/) para controle de versão. Para as vers
 
 Feito com ❤️ por Douglas Conceição 👋🏽 Entre em contato!
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasconceicao)](https://www.linkedin.com/in/douglasconceicao/)
 [![Hotmail Badge](https://img.shields.io/badge/-Douglas_Conceição-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:douglas120791@hotmail.com)](mailto:douglas120791@hotmail.com)
